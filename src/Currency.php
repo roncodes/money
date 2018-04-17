@@ -524,6 +524,15 @@ class Currency
             'decimalSeparator' => ',',
             'symbolPlacement' => 'before'
         ],
+        'MNT' => [
+            'code' => 'MNT',
+            'title' => 'Mongolian tugrik',
+            'symbol' => '₮ ',
+            'precision' => 0,
+            'thousandSeparator' => '',
+            'decimalSeparator' => ',',
+            'symbolPlacement' => 'before'
+        ],
         'MYR' => [
             'code' => 'MYR',
             'title' => 'Malaysian Ringgit',
