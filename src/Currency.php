@@ -527,10 +527,10 @@ class Currency
         'MNT' => [
             'code' => 'MNT',
             'title' => 'Mongolian tugrik',
-            'symbol' => '₮ ',
+            'symbol' => '₮',
             'precision' => 0,
-            'thousandSeparator' => '',
-            'decimalSeparator' => ',',
+            'thousandSeparator' => ',',
+            'decimalSeparator' => '',
             'symbolPlacement' => 'before'
         ],
         'MYR' => [
