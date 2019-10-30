@@ -1,5 +1,5 @@
 {
-    "name": "roncodes/money",
+    "name": "gerardojbaez/money",
     "description": "A simple and cross-platform alternative to PHP money_format(). 92 currencies supported, including MNT.",
     "keywords": ["money_format", "money", "currency", "formatter"],
     "license": "MIT",
